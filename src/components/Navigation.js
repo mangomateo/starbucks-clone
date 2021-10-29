@@ -2,7 +2,7 @@ const Navigation = () => {
     return (
         <nav>
             {/* STARBUCKS LOGO GOES HERE */}
-            <img src="#" alt="#" />
+            <img src="img/siren-logo.png" alt="#" />
             <ul>
                 <li>
                 { /* eslint-disable-next-line */ }
